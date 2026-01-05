@@ -12,7 +12,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-</br>
 - 💬 Ask me about **CLoud & DevOps**  
 - 📫 How to reach me **ompatel597@gmail.com**
 
