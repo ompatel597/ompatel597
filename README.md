@@ -11,9 +11,11 @@
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<ul>
+  <li>💬 Ask me about **CLoud & DevOps** </li>
+  <li>📫 How to reach me **ompatel597@gmail.com**</li>
+</ul>  
 
-- 💬 Ask me about **CLoud & DevOps**  
-- 📫 How to reach me **ompatel597@gmail.com**
 
 ---
 
