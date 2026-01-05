@@ -48,6 +48,6 @@
 
 🤝 Open to learning-based collaborations & beginner projects <br/>
 📚 Actively building skills through hands-on labs and practice <br/>
-📬 Let’s connect: https://instagram.com/ompatel_597
+📬 Let’s chat: <a href="https://instagram.com/ompatel_597" target="blank">ompatel_597<a/>
 
 > *"Preparing for a cloud-driven future by learning cloud fundamentals and real-world automation."*
