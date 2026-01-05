@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 👨‍💻 All of my projects are available at [https://github.com/ompatel597](https://github.com/ompatel597)  
+<!-- 👨‍💻 All of my projects are available at [https://github.com/ompatel597](https://github.com/ompatel597) -->
 - 💬 Ask me about **CLoud & DevOps**  
 - 📫 How to reach me **ompatel597@gmail.com**
 
