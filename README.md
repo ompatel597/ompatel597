@@ -6,7 +6,7 @@
   <a href="https://github.com/ompatel597">
   </a>
   <a href="https://linkedin.com/in/om-patel-677a3b289">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Om%20Patel-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
