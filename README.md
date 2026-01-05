@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<!-- 👨‍💻 All of my projects are available at [https://github.com/ompatel597](https://github.com/ompatel597) -->
+- 👨‍💻 Shared learning resources are available at [https://github.com/ompatel597](https://github.com/ompatel597) 
 - 💬 Ask me about **CLoud & DevOps**  
 - 📫 How to reach me **ompatel597@gmail.com**
 
@@ -46,9 +46,8 @@
 
 ### 👨‍💼 About Me
 
-☁️ Currently learning Cloud fundamentals
-🤝 Open to learning-based collaborations & beginner projects
-📚 Actively building skills through hands-on labs and practice
+🤝 Open to learning-based collaborations & beginner projects <br/>
+📚 Actively building skills through hands-on labs and practice <br/>
 📬 Let’s connect: ompatel597@gmail.com
 
 > *"Preparing for a cloud-driven future by learning cloud fundamentals and real-world automation."*
