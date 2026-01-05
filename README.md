@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 👨‍💻 Shared learning resources are available at [https://github.com/ompatel597](https://github.com/ompatel597) 
+</br>
 - 💬 Ask me about **CLoud & DevOps**  
 - 📫 How to reach me **ompatel597@gmail.com**
 
