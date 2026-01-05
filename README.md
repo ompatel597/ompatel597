@@ -12,9 +12,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <ul>
-  <li>💬 Ask me about **CLoud & DevOps** </li>
-  <li>📫 How to reach me **ompatel597@gmail.com**</li>
-</ul>  
+  <li>💬 Ask me about <strong>Cloud & DevOps</strong></li>
+  <li>📫 How to reach me <strong>ompatel597@gmail.com</strong></li>
+</ul>
+ 
 
 
 ---
